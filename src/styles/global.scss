@@ -22,6 +22,24 @@
 
 }
 
+:root[data-theme="theme-dark"] {
+    --white: #0e1013;
+
+    --gray-50: #17181b;
+    --gray-100: #3c4043;
+    --gray-200: #afb2b1;
+    --gray-500: #80868b;
+    --gray-800: #bdc1c6;
+    
+    --green-500: #04d361;
+
+    --purple-300: #9f75ff;
+    --purple-400: #9164fa;
+    --purple-500: #8257e5;
+    --purple-800: #6f48c9;
+
+}
+
 @media (max-width: 1366px) {
     html {
       font-size: 80%;
